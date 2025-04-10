@@ -18,3 +18,29 @@ A Python script to automatically organize your Downloads folder by file type. Ke
 ```bash
 python downloads_organizer.py "C:/Users/YourName/Downloads"
 Replace the path with your own Downloads folder.
+
+💾 Download the Pack
+📥 Get the full product on Gumroad
+
+Includes:
+
+✅ Ready-to-run Python script
+✅ README file with instructions
+✅ Free lifetime updates
+✅ Clean cover image for your own use
+
+🙌 Support
+If you found this useful:
+
+⭐ Star this repo
+📢 Share it with your tech circle
+☕ Buy me a coffee (optional but appreciated!)
+
+📁 Folder Before vs After
+
+Downloads/
+├── zip/
+├── jpg/
+├── pdf/
+└── others/
+No more chaos — just a clean folder. 😌
