@@ -20,10 +20,9 @@ python downloads_organizer.py "C:/Users/YourName/Downloads"
 Replace the path with your own Downloads folder.
 
 💾 Download the Pack
-📥 Get the full product on Gumroad
+📥 https://kannanrkv.gumroad.com/l/DownloadsFolderOrganizer
 
 Includes:
-
 ✅ Ready-to-run Python script
 ✅ README file with instructions
 ✅ Free lifetime updates
